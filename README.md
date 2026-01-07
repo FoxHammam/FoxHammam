@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuandwZWdmNGV1eTJpNzEyN25yY250c2RpYjUzbTY2bXA0aDQ0aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" 
        alt="Cool GIF" 
-       width="100%" 
-       style="height:400px; display:block;">
+       width="80%" 
+       style="height:500px; display:block;">
 </p>
 
 
