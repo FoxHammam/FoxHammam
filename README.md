@@ -6,7 +6,7 @@
 </p>
 
 ## About me :
--
+- I’m a passionate web developer with a strong interest in HTML and CSS. I enjoy creating web projects on the side, experimenting with layouts, animations, and responsive design. I’m always learning, improving my skills, and developing programs to grow as a developer.
 <!--
 **FoxHammam/FoxHammam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
