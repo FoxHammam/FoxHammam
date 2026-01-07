@@ -6,7 +6,7 @@
 </p>
 
 ## About me :
--I’m a passionate full-stack web developer who enjoys building complete web applications from concept to deployment. I love working on both the front end and back end, turning ideas into functional, clean, and user-friendly experiences.
+- I’m a passionate full-stack web developer who enjoys building complete web applications from concept to deployment. I love working on both the front end and back end, turning ideas into functional, clean, and user-friendly experiences.
 
 - I spend a lot of my time building side projects to strengthen my skills, experiment with new technologies, and solve real-world problems through code. Developing programs and working on practical projects helps me learn faster and understand how things work behind the scenes.
 
