@@ -6,7 +6,13 @@
 </p>
 
 ## About me :
-- I’m a passionate web developer with a strong interest in HTML and CSS. I enjoy creating web projects on the side, experimenting with layouts, animations, and responsive design. I’m always learning, improving my skills, and developing programs to grow as a developer.
+-I’m a passionate full-stack web developer who enjoys building complete web applications from concept to deployment. I love working on both the front end and back end, turning ideas into functional, clean, and user-friendly experiences.
+
+- I spend a lot of my time building side projects to strengthen my skills, experiment with new technologies, and solve real-world problems through code. Developing programs and working on practical projects helps me learn faster and understand how things work behind the scenes.
+
+- I’m constantly learning and improving, whether it’s writing better code, understanding system design, or exploring new tools and frameworks. I enjoy challenges, problem-solving, and the process of breaking complex ideas into simple, efficient solutions.
+
+- My goal is to keep growing as a developer, build meaningful projects, and continuously push myself to become better in full-stack development while staying curious and motivated.
 <!--
 **FoxHammam/FoxHammam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
