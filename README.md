@@ -1,4 +1,9 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNxcWo5bzQyMWRkbXc5NXRzeGlkaTBnOWdobGVlcTNubG9qcHMzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" 
+       alt="Cool GIF" 
+       width="100%" 
+       style="height:400px; display:block;">
+</p>
 
 <!--
 **FoxHammam/FoxHammam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
