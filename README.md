@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNxcWo5bzQyMWRkbXc5NXRzeGlkaTBnOWdobGVlcTNubG9qcHMzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWpuandwZWdmNGV1eTJpNzEyN25yY250c2RpYjUzbTY2bXA0aDQ0aiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" 
        alt="Cool GIF" 
-       width="80%" 
-       style="height:500px; display:block;">
+       width="100%" 
+       style="height:400px; display:block;">
 </p>
+
 
 <!--
 **FoxHammam/FoxHammam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
