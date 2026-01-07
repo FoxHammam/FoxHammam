@@ -2,7 +2,7 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNxcWo5bzQyMWRkbXc5NXRzeGlkaTBnOWdobGVlcTNubG9qcHMzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeZ6mLsRRik8cgnh3D/giphy.gif" 
        alt="Cool GIF" 
        width="80%" 
-       style="height:300px; display:block;">
+       style="height:500px; display:block;">
 </p>
 
 <!--
