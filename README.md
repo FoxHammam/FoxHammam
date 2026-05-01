@@ -15,7 +15,7 @@ I love exploring new tech, building projects, and improving my skills one challe
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=0hmza&color=000000&style=for-the-badge" 
+    src="https://komarev.com/ghpvc/?username=FoxHammam&color=000000&style=for-the-badge" 
     alt="profile views" 
   />
 </p>
@@ -34,7 +34,7 @@ I love exploring new tech, building projects, and improving my skills one challe
 </tr>
 
 <tr>
-<td><a href="https://github.com/0hmza/libftp"><strong>libft</strong></a></td>
+<td><a href="[https://github.com/0h](https://github.com/FoxHammam/Ayoub-Store)"><strong>libft</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
 <td>Reimplementation of libc</td>
 </tr>
