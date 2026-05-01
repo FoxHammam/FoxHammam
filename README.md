@@ -34,9 +34,9 @@ I love exploring new tech, building projects, and improving my skills one challe
 </tr>
 
 <tr>
-<td><a href="[https://github.com/0h](https://github.com/FoxHammam/Ayoub-Store)"><strong>libft</strong></a></td>
+<td><a href="https://github.com/FoxHammam/Ayoub-Store"><strong>Ayoub Stor</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
-<td>Reimplementation of libc</td>
+<td>Ecomerc WebStor</td>
 </tr>
 
 <tr>
